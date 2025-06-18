@@ -5,8 +5,8 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * @author zh
- * Created on 2022/12/28
+ * @author zly
+ * Created on 2025/06/18
  */
 @SpringBootApplication
 public class DalApplication {
