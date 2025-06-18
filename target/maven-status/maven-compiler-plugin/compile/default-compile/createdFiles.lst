@@ -1,0 +1,5 @@
+com\ctrip\dal\demo\dao\PersonsDao.class
+com\ctrip\dal\demo\DalApplication.class
+com\ctrip\dal\demo\pojo\Persons.class
+com\ctrip\dal\demo\controller\PersonController.class
+com\ctrip\dal\demo\service\PersonService.class
